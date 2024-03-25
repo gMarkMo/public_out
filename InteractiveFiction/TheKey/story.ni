@@ -1,6 +1,6 @@
 "The Key"
 
-[Hints: just a few]
+[Hints: minimal]
 Release along with cover art and the "Parchment2024.2" interpreter.
 Use Undo Prevention.
 [sorry, if you lose the key, you will need to restart the game]
