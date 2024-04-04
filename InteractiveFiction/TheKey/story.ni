@@ -3,7 +3,7 @@
 [Hints: minimal]
 Release along with cover art and the "Parchment2024.2" interpreter.
 Use Undo Prevention.
-[sorry, if you lose the key, you will need to restart the game]
+[sorry.. if you lose the key, you will need to restart the game]
 
 Chapter 1 - Finding the Cavern
 
