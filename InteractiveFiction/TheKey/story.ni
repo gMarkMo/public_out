@@ -165,11 +165,11 @@ The unspeakable treasure is in the Chamber of Jewels.
 After taking the treasure:
 	end the story finally saying "You have succeeded.".
 
-Chapter 3 - Special Stuff	
+Chapter 3 - Special Stuff
 
 Section 1 - Tests
 
 Test me with "test first / test second / test third".
 Test first with "w / w / w / n / take box / open box / take key / s / e / e / e".
 Test second with "unlock door with key / e".
-Test third with "ne / sit on stump / stand / take stump / w / close door with stump / se / take all". 
+Test third with "ne / sit on stump / stand / take stump / w / close door with stump / se / take all".
