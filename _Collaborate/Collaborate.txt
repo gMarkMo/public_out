@@ -1,8 +1,10 @@
-Many of the projects and resources in this repository are open for community collaboration. To inquire about access to resources or for ways that you may be able to assist, please send email to:
+Many of the projects and resources in this repository are open for community collaboration.
+To inquire about access, please send email to:
 
 wcl-pvb-tech@weberpl.lib.ut.us
 
-If you do not have a GitHub account, that will be a great place to start. Sign up for a free account.
+If you do not have a GitHub account, that will be a great place to start.
+Sign up for a free account.
 
 Examples of ways that you can help:
 	• Identify bugs
